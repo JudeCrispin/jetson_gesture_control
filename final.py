@@ -61,7 +61,7 @@ else:
     print("✅ Camera opened")
 
 # ================= GESTURE HOLD =================
-GESTURE_HOLD_TIME = 0.8
+GESTURE_HOLD_TIME = 0.2
 gesture_start_time = None
 last_gesture = None
 

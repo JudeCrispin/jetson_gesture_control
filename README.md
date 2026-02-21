@@ -191,7 +191,7 @@ Ensure:
 | Thumb + Index           | Previous Video      |
 | Index + Pinky           | Exit                |
 
-> Hold each gesture for **0.8 seconds** to trigger the action.
+> Hold each gesture for **0.2 seconds** to trigger the action.
 
 ---
 

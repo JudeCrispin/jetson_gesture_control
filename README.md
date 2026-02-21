@@ -225,7 +225,7 @@ You may modify this dictionary to add additional videos.
 
 To avoid false triggers:
 
-* A gesture must be held for **0.8 seconds**
+* A gesture must be held for **0.2 seconds**
 * Action executes only after stable detection
 
 This ensures smooth and reliable control.
